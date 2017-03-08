@@ -1,0 +1,54 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_66 (Oracle Corporation)
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: r6Mdl54h2qEvVnqgfsgxU4CysiI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: ceb0PWCZMPXqNYyDEkljT6JARRg=
+
+Name: res/drawable-mdpi/ic_action_search.png
+SHA1-Digest: XjltJdEB3tvakTn9CN7KwdaNT68=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: aM73uFWfPOOvq5Kk9Ffd3cWm0OQ=
+
+Name: res/menu/activity_main.xml
+SHA1-Digest: sGzIjuFWEMOmQHW3SelDXDcBpYs=
+
+Name: res/drawable-xhdpi/ic_action_search.png
+SHA1-Digest: WzSVDDIHZpn0cFeuxgKRJete4TU=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: E6GlyfLOds2ALkFd3enU0XjdDrg=
+
+Name: assets/libjiagu_x86.so
+SHA1-Digest: N70/qivqIKHEJmigmU3j/dBjBMU=
+
+Name: lib/x86/libjiagu_art.so
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: TJE1tg63y88xLdIALKGpuLmgh0s=
+
+Name: assets/.appkey
+SHA1-Digest: m576z8CR/aApReVBF8HhDlcKvjA=
+
+Name: lib/armeabi/libjiagu_art.so
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: res/drawable-hdpi/ic_action_search.png
+SHA1-Digest: rOWnNxWCWKwkicf+FpYGMg1fX2Y=
+
+Name: assets/libjiagu.so
+SHA1-Digest: cUB/ydqCZvR50pky4dPiAUtocuM=
+
+Name: resources.arsc
+SHA1-Digest: X+7QLwDEOD6XdAUQCIrEDinkwXw=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: ioH2V9g4FYKkqpDHk7jPryMKtcE=
+
+Name: classes.dex
+SHA1-Digest: 8Oef96QD1yXtmOiB/F7AsE7tD/0=
+
